@@ -1,0 +1,11 @@
+{
+  "org": "asottile",
+  "repo": "set-delete-branch-on-merge",
+  "versions": [
+    {
+      "commit": "d8a1163e8febd4d3961f06e2ebefb32afefd3773",
+      "tag": "",
+      "parsed_at": "2026-10-20T19:41:46.168736+00:00"
+    }
+  ]
+}
