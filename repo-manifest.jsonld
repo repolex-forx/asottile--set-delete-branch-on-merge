@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/asottile/set-delete-branch-on-merge/commit/d8a1163e8febd4d3961f06e2ebefb32afefd3773",
       "git:hexsha": "d8a1163e8febd4d3961f06e2ebefb32afefd3773",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
